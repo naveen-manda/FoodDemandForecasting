@@ -1,1 +1,6 @@
 # FoodDemandForecasting
+Food wastage is a significant challenge that threatens global food security, sustainability, and economic development. Accurate food demand prediction is crucial for businesses in the food industry to optimize their inventory management and reduce food wastage. 
+
+This study aims to compare the performance of hybrid machine learning models, including ARIMA + regression models and ARIMA + Extra Trees Regressor models in predicting food demand. The study used time-series data from a food distribution company to predict food demand for different food categories. The results showed that the hybrid models outperformed the traditional time-series models, indicating that the inclusion of machine learning techniques improves the accuracy of the forecast. The ARIMA + Extra Trees Regressor model performed the best, providing the lowest mean absolute error (MAE) and root mean squared error (RMSE) and the highest R2 and RMSLE. The findings provide practical implications for businesses in the food industry to optimize their inventory management and reduce food wastage by accurately predicting demand. 
+
+The research also contributes to sustainable development by providing insights into how advanced machine learning techniques can be used to address global challenges, such as food security and sustainability.  
